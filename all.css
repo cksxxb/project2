@@ -1,3 +1,12 @@
 h1{
     color: purple;
 }
+button{
+    color: yellow;
+    background: green;
+    
+}
+button:hover{
+    background-color: #0056b3; /* 深藍色 */
+    transform: scale(1.05); /* 放大效果 */
+}
